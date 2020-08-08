@@ -30,4 +30,4 @@ Install Python
 Install Libraries: lxml requests
 
 Run the SCRIPT
-python pbscrape.property
+> python pbscrape.py
