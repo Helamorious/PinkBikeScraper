@@ -26,11 +26,8 @@ Where the value to enumerate is...
 
 ## SCRIPT USAGE
 To use this script...
-  Install Python
-  Install Libraries
-    cmd
-      pip install lxml
-      pip install requests
+Install Python
+Install Libraries: lxml requests
+
 Run the SCRIPT
-  cmd
-    python pbscrape.property
+python pbscrape.property
